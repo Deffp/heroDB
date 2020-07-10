@@ -1,0 +1,119 @@
+.wrapper-selected-hero {
+  display: flex;
+  height: calc(100vh - 110px);
+  width: 90%;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.82);
+  border-radius: 40px 40px 0px 0px;
+}
+
+.selected-hero {
+  display: flex;
+  width: 100%;
+}
+
+.wrapper-hero-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.info {
+  width: 90%;
+  justify-content: space-between;
+  margin: auto;
+  margin-left: 30px;
+}
+
+.info-hero {
+  color: #ffffff;
+  min-width: 70%;
+  max-width: 70%;
+  display: flex;
+  justify-content: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 60px;
+  line-height: 160%;
+}
+
+.top-info {
+  display: flex;
+  text-align: center;
+  justify-content: inherit;
+
+  align-items: center;
+}
+
+.info-hero h1 {
+  padding-bottom: 30px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 100%;
+  font-variant: small-caps;
+  border-bottom: 3px solid #fff;
+}
+
+.hero-avatar {
+  height: 90%;
+  border-radius: 6px;
+}
+
+.button-edit {
+  background: #d50000;
+  border-radius: 6px;
+  border: none;
+  padding: 15px 24px 15px 24px;
+  color: #fff;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-variant: small-caps;
+}
+
+input {
+  width: 500px;
+  height: 40px;
+  border: 2px solid #ffffff;
+  background: #000000;
+  box-sizing: border-box;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  outline: none;
+  line-height: 100%;
+  padding: 16px 20px 16px 16px;
+  color: #707070;
+  margin: 0px 0px 0px 0px;
+  border-radius: 4px;
+}
+
+.button-back {
+  background: #707070;
+  border-radius: 6px;
+  border: none;
+  padding: 15px 24px 15px 24px;
+  color: #fff;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-variant: small-caps;
+  align-self: baseline;
+  margin: 30px;
+}
+
+p {
+  min-height: 80px;
+}

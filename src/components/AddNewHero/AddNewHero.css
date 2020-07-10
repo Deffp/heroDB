@@ -1,0 +1,120 @@
+.wrapper-new-hero {
+  display: flex;
+  width: 100%;
+  height: calc(100vh - 110px);
+}
+
+.left-bar {
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+
+.right-bar {
+  width: 50%;
+  display: flex;
+  margin: 50px;
+  align-items: center;
+}
+
+.right-bar input {
+  width: 500px;
+  height: 40px;
+  border: 2px solid #ffffff;
+  background: #000000;
+  box-sizing: border-box;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  outline: none;
+  line-height: 100%;
+  padding: 16px 20px 16px 16px;
+  color: #707070;
+  border-radius: 4px;
+}
+
+.create-form {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+
+.create-form label {
+  color: #ffffff;
+  margin: 16px 0px 16px 0px;
+  text-transform: uppercase;
+}
+
+.img-add {
+  color: #fff;
+  background-color: red;
+  margin: auto;
+  width: 50px;
+  height: 50px;
+}
+
+label.filebutton {
+  width: 120px;
+  height: 40px;
+  margin-left: auto;
+  overflow: hidden;
+  background: #000000;
+  border: 6px solid rgba(255, 255, 255, 0.38);
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 510px;
+  width: 300px;
+  color: red;
+  position: relative;
+}
+
+label img {
+  background: #000000;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 510px;
+  width: 300px;
+}
+
+label input {
+  display: none;
+}
+
+.button-add-hero {
+  background: #d50000;
+  border-radius: 6px;
+  border: none;
+  padding: 15px 47px 15px 47px;
+  margin-top: 15px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 100%;
+  color: #fff;
+  text-transform: uppercase;
+  font-variant: small-caps;
+}
+
+.button-cancel {
+  background: #707070;
+  border-radius: 6px;
+  border: none;
+  padding: 15px 47px 15px 47px;
+  margin-top: 15px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 100%;
+  color: #fff;
+  text-transform: uppercase;
+  font-variant: small-caps;
+}
+
+.btn-group {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}

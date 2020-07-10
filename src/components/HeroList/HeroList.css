@@ -1,0 +1,11 @@
+.wrapper-hero-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-list {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-top: 70px;
+}

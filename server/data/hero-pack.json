@@ -1,0 +1,50 @@
+[
+  {
+    "nickname": "IRON MAN",
+    "real_name": "Tony Stark",
+    "origin_description": "In an attempt to stop other people from misusing his designs, Stark goes about disabling other armored heroes and villains who are using suits based on the Iron Man technology, the designs of which were stolen by his enemy Spymaster. His quest to destroy the stolen technology—originally called Stark Wars but is more commonly known as the Armor Wars—severely hurts his reputation as Iron Man. After attacking and disabling a series of minor villains such as Stilt-Man, he attacks and defeats the government operative known as Stingray. ",
+    "superpowers": "Genius-Level Intellect, He Can Store His Suit Inside His Body, Access To The World's Communications Systems, Super-Human Healing, Super-Human Response Time, Physical Combat Skills Even Without His Suit, Radar Avoidance",
+    "catch_phrase": "Well, Performance Issues, It’s Not Uncommon. One Out Of Five…",
+    "image": "https://i.pinimg.com/originals/78/ac/aa/78acaad3c2890c0d47f94ec7b3cce9fb.jpg"
+  },
+  {
+    "nickname": "Captain america",
+    "real_name": "Steve Rogers",
+    "origin_description": "Stephen Rogers was born on July 4, 1918 in Brooklyn, New York, to Irish immigrants Sarah and Joseph Rogers. By the early 1940s, Godov was a short and thin student of art, specializing in illustration. Fiery coming to power of Hitler, Rogers filed documents in the army, but he was denied because of the usually flat physical forms.",
+    "superpowers": "Immune To Fatigue, Martial Arts And Hand-To-Hand Combat, Bulletproof, Fire-Resistant Armor, Super Healing, His Metabolism Prevents Him From Getting Drunk, Worthy Enough To Lift Thor’s Hammer, Suspended Aging, Resistant To Hypnosis, Enhanced Intelligence, Enhanced Sight, Battle Van, Bonus: He’s Really Good At Art",
+    "catch_phrase": "I don’t want to kill anyone. I don’t like bullies; I don’t care where they’re from",
+    "image": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg"
+  },
+  {
+    "nickname": "Сaptain Marvel",
+    "real_name": "Carol Danvers",
+    "origin_description": "The first Captain Marvel printed by Marvel Comics was created by Stan Lee and Gene Colan. This character is an alien military officer, Captain Mar-Vell of the Kree Imperial Militia, who is sent to observe the planet Earth as it is developing technology to travel into space.",
+    "superpowers": "IMMORTALITY, HEALING FACTOR, TOXIN RESISTANCE, TELEPORTATION AND ILLUSION-CASTING... MAYBE, WARBIRD, SUPERHUMAN STRENGTH, EXTREME DURABILITY, FLIGHT, SUPERHUMAN STAMINA, ENHANCED REFLEXES, SUPER SPEED, MOLECULAR MANIPULATION, WHITE HOLE LINKAGE",
+    "catch_phrase": "Events and episodes pop up in the memory. It's like I lived here, but I don't know if it's all real",
+    "image": "https://i.pinimg.com/originals/08/7c/c0/087cc033d6b5f982daa8be230e22d64f.jpg"
+  },
+  {
+    "nickname": "THOR",
+    "real_name": "Thor Odinson",
+    "origin_description": "The character, which is based on the Norse deity of the same name, is the Asgardian god of thunder who possesses the enchanted hammer, Mjolnir, which grants him the ability to fly and manipulate weather amongst his other superhuman attributes.",
+    "superpowers": "God Blast, Super Speed, Transformation, All-Tongue, Invulnerability, Superhuman Senses, Superhuman Healing, Earth Control, Mind Resistance, Mind Powers, Self-Sustenance, Superhuman Stamina, Warrior's Madness, Master Combatant, Teleportation",
+    "catch_phrase": "Feel free to choose an expression. Loki is not true, nor is he still Asgardian, as well as my brother.I have already killed 80 people ... Step brother.",
+    "image": "https://i.pinimg.com/originals/f6/91/c6/f691c6ed017215b436b5dbd88a347e2a.jpg"
+  },
+  {
+    "nickname": "HULK",
+    "real_name": "Bruce Banner",
+    "origin_description": "He also possesses less commonly described powers, including abilities allowing him to home in to his place of origin in New Mexico",
+    "superpowers": "Unlimited Strength, Superhuman Speed, He Can Leap Across Continents, He Can Breath Underwater, He Can See Ghosts, Healing And Regenerating Abilities, He Can Survive In Spacem, Prolonged Lifespan, He Can Punch His Way Through Dimensions, Thunderclap, Resistance To Mind Control, High Intelligence, Bulletproof, He Can Create More Hulks, His Different Colors Come With Different Powers",
+    "catch_phrase": "What a rage. I can lower your neck and not even turn green",
+    "image": "https://image.winudf.com/v2/image1/Y29tLkNvZGVMb25lbHkuSHVsa1NtYXNoX3NjcmVlbl8wXzE1NDQxNzg3MDNfMDg3/screen-0.jpg?fakeurl=1&type=.jpg"
+  },
+  {
+    "nickname": "SPIDER-MAN",
+    "real_name": "Peter Parker",
+    "origin_description": "When Spider-Man first appeared in the early 1960s, teenagers in superhero comic books were usually relegated to the role of sidekick to the protagonist. The Spider-Man series broke ground by featuring Peter Parker, a high school student from Queens behind Spider-Man's secret identity and with whose self-obsessions with rejection, inadequacy, and loneliness young readers could relate.",
+    "superpowers": "Communication With Spiders, Super-Strength, Super-Healing, Night-Vision, Organic Webbing, Utility Belt, Super-Agility And Speed, Sense Of Humor And Intimidation, Wall-Crawling, Technical Genius, Spidey-Sense, Web-Slinging",
+    "catch_phrase": "With great power comes great responsibility",
+    "image": "https://marveldom.ru/wp-content/uploads/2019/09/Spiderman_hero_Avengers_Infinity_War_550974_1920x10801-1200x675.jpg"
+  }
+]
